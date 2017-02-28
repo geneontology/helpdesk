@@ -3,7 +3,7 @@ The GO Helpdesk
 <!--
 Please note that no one will be staffing the helpdesk over the holiday period. We will be back on January 3rd. Please expect some delays in answering questions.
 -->
-=Welcome to the GO Helpdesk=
+###Welcome to the GO Helpdesk
 
 For questions, you should first check our [Frequently Asked Questions](http://geneontology.org/faq-page), as your query may have already been answered. </p>
 
@@ -13,4 +13,4 @@ Otherwise, please login, create questions/issues, and join the community!
 
 Best wishes,
 
--The GO Helpdesk team
+-The GO Helpdesk Team
