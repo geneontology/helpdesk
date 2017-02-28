@@ -9,7 +9,7 @@ For questions, you should first check our [Frequently Asked Questions](http://ge
 
 The GOC also supports several mailing lists to foster discussion within the GO community. Subscribe to one or more of these [mailing lists](http://www.geneontology.org/page/go-mailing-lists) to follow general developments, discussions within the GOC, or to post a message to the GO community.
 
-Otherwise, please login, create questions/issues, and join the community here on GitHub!
+Otherwise, please login, (create questions/issues)[https://github.com/geneontology/helpdesk/issues], and join the community here on GitHub!
 
 Best wishes,
 
