@@ -1,5 +1,5 @@
 <span class="navbar-toggler-icon"></span>
-<a href="http://geneontology.org" class="navbar-brand"><img src="go-logo.mini.png" class="d-inline-block align-top" height="30" /> Helpdesk</a>
+<a href="http://geneontology.org" class="navbar-brand"><img src="docs/go-logo.mini.png" class="d-inline-block align-top" height="30" /> Helpdesk</a>
 -   <a href="http://help.geneontology.org" id="dropdown01" class="nav-link dropdown-toggle">Resources</a>
     <a href="http://geneontology.org" class="dropdown-item">GO Home</a> <a href="http://geneontology.org/faq-page" class="dropdown-item">FAQs</a> <a href="http://status.geneontology.org/" class="dropdown-item">Status</a> <a href="http://www.geneontology.org/page/go-mailing-lists" class="dropdown-item">Mailing lists</a> <a href="https://github.com/geneontology/helpdesk/issues" class="dropdown-item">Questions/issues</a>
 
@@ -19,7 +19,7 @@ Otherwise, if you have a question about the GO, its data, usage, software, or se
 Best wishes,
 -The GO Helpdesk Team
 
-<img src="go-logo-icon.png" class="mx-auto d-block" />
+<img src="docs/go-logo-icon.png" class="mx-auto d-block" />
 
 Copyright © 1999-2015 [the Gene Ontology](http://www.geneontology.org/ "The Gene Ontology project website") ([CC-BY 4.0](http://geneontology.org/page/use-and-license))
 The Gene Ontology Consortium is supported by a P41 grant from the National Human Genome Research Institute (NHGRI) \[grant [5U41HG002273-14](http://projectreporter.nih.gov/project_info_description.cfm?aid=8641714&icde=0 "National Human Genome Research
