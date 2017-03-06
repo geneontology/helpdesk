@@ -1,0 +1,35 @@
+{
+    "name": "geneontology/helpdesk",
+    "version": "0.0.1",
+    "license": "BSD-3-Clause",
+    "description": ".",
+    "keywords": [
+	"reusable",
+	"data"
+    ],
+    "author": "SJC <sjcarbon@lbl.gov> (http://berkeleybop.org/)",
+    "homepage": "http://berkeleybop.org/",
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/geneontology/helpdesk.git"
+    },
+    "engines": {
+	"node": ">= 4.4",
+	"npm": ">= 2.15"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "bundleDependencies": [],
+    "private": false,
+    "main": null,
+    "bugs": { 
+	"url": "https://github.com/geneontology/helpdesk/issues"
+    },
+    "directories": {
+    },
+    "scripts": {
+	"build": "pandoc -s -f html -t markdown_github -o README.md docs/index.html && sed -i 's/go\-logo/docs\/go\-logo/g' README.md"
+    }
+}
