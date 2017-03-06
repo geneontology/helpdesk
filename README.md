@@ -1,5 +1,5 @@
 <span class="navbar-toggler-icon"></span>
-<a href="http://geneontology.org" class="navbar-brand"><img src="docs/go-logo.mini.png" class="d-inline-block align-top" height="30" /> Helpdesk</a>
+<a href="http://help.geneontology.org" class="navbar-brand"><img src="docs/go-logo.mini.png" class="d-inline-block align-top" height="30" /> Helpdesk</a>
 -   <a href="http://help.geneontology.org" id="dropdown01" class="nav-link dropdown-toggle">Resources</a>
     <a href="http://geneontology.org" class="dropdown-item">GO Home</a> <a href="http://geneontology.org/faq-page" class="dropdown-item">FAQs</a> <a href="http://status.geneontology.org/" class="dropdown-item">Status</a> <a href="http://www.geneontology.org/page/go-mailing-lists" class="dropdown-item">Mailing lists</a> <a href="https://github.com/geneontology/helpdesk/issues" class="dropdown-item">Questions/issues</a>
 
