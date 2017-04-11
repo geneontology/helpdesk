@@ -19,7 +19,6 @@ Otherwise, if you have a question about the GO, its data, usage, software, or se
 To learn more about contributing annotations and contributng to the ontology, please visit the [guide on Contributing to GO](http://geneontology.org/page/contributing-go).
 
 Best wishes,
-
 -The GO Helpdesk Team
 
 <img src="docs/go-logo-icon.png" class="mx-auto d-block" />
