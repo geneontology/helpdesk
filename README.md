@@ -16,7 +16,10 @@ The GOC also supports several [mailing lists](http://www.geneontology.org/page/g
 
 Otherwise, if you have a question about the GO, its data, usage, software, or services, please login, [create a ticket](https://github.com/geneontology/helpdesk/issues), and join the community on GitHub!
 
+To learn more about contributing annotations and contributng to the ontology, please visit the [guide on Contributing to GO](http://geneontology.org/page/contributing-go).
+
 Best wishes,
+
 -The GO Helpdesk Team
 
 <img src="docs/go-logo-icon.png" class="mx-auto d-block" />
