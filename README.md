@@ -23,6 +23,6 @@ Best wishes,
 
 <img src="docs/go-logo-icon.png" class="mx-auto d-block" />
 
-Copyright © 1999-2015 [the Gene Ontology](http://www.geneontology.org/ "The Gene Ontology project website") ([CC-BY 4.0](http://geneontology.org/page/use-and-license))
+Copyright © 1999-2017 [the Gene Ontology](http://www.geneontology.org/ "The Gene Ontology project website") ([CC-BY 4.0](http://geneontology.org/page/use-and-license))
 The Gene Ontology Consortium is supported by a P41 grant from the National Human Genome Research Institute (NHGRI) \[grant [5U41HG002273-14](http://projectreporter.nih.gov/project_info_description.cfm?aid=8641714&icde=0 "National Human Genome Research
       Institute grant 5U41HG002273-14")\]. The Gene Ontology Consortium would like to acknowledge the assistance of many more people than can be listed here. Please visit the [acknowledgements page](http://geneontology.org/page/go-acknowledgements) for the full list.
