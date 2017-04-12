@@ -8,15 +8,15 @@ The GO Helpdesk
 
 Welcome to the [Gene Ontology](http://geneontology.org) Helpdesk.
 
-For questions, you should first check our [Frequently Asked Questions](http://geneontology.org/faq-page), as your query may have already been answered.
+Do you have general questions about GO? Check our [Frequently Asked Questions](http://geneontology.org/faq-page), as your query may have already been answered.
 
-If you are having trouble using or connecting to any of our public services, you may wish to check our [status page](http://status.geneontology.org/).
+Do you have a specific question about the GO, its data, usage, software, or services? [Create a ticket](https://github.com/geneontology/helpdesk/issues) on our issue tracker and join the [GO community](https://github.com/geneontology/) on GitHub!
 
-The GOC also supports several [mailing lists](http://www.geneontology.org/page/go-mailing-lists) to foster discussion within the GO community. Subscribe to one or more of these mailing lists to follow general developments, discussions within the GOC, or to post a message to the GO community.
+Are you having trouble using or connecting to any of our public services? Check our [status page](http://status.geneontology.org/).
 
-Otherwise, if you have a question about the GO, its data, usage, software, or services, please login, [create a ticket](https://github.com/geneontology/helpdesk/issues), and join the community on GitHub!
+Are you interested in contributing to annotations or the ontology? Please visit the [guide on Contributing to GO](http://geneontology.org/page/contributing-go).
 
-To learn more about contributing annotations and contributing to the ontology, please visit the [guide on Contributing to GO](http://geneontology.org/page/contributing-go).
+Join our [mailing lists](http://www.geneontology.org/page/go-mailing-lists) and stay informed! The GOC supports several mailing lists to foster discussion within the GO community. Subscribe to one or more of these [mailing lists](http://www.geneontology.org/page/go-mailing-lists) to follow general developments, discussions within the GOC, or to post a message to the GO community.
 
 Best wishes,
 -The GO Helpdesk Team
