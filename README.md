@@ -16,7 +16,10 @@ Are you having trouble using or connecting to any of our public services? Check 
 
 Are you interested in contributing to annotations or the ontology? Please visit the [guide on Contributing to GO](http://geneontology.org/page/contributing-go).
 
-Join our [mailing lists](http://www.geneontology.org/page/go-mailing-lists) and stay informed! The GOC supports several mailing lists to foster discussion within the GO community. Subscribe to one or more of these [mailing lists](http://www.geneontology.org/page/go-mailing-lists) to follow general developments, discussions within the GOC, or to post a message to the GO community.
+Join our mailing lists and stay informed! The GOC supports several mailing lists to foster discussion within the GO community. Subscribe to one or both of these lists to follow general developments, discussions within the GOC, or to post a message to the GO community:
+
+-   [GO-friends mailing list](https://mailman.stanford.edu/mailman/listinfo/go-friends)
+-   [GO-discuss mailing list](https://mailman.stanford.edu/mailman/listinfo/go-discuss)
 
 Best wishes,
 -The GO Helpdesk Team
