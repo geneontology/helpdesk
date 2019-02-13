@@ -1,7 +1,7 @@
 <span class="navbar-toggler-icon"></span>
 <a href="http://help.geneontology.org" class="navbar-brand"><img src="docs/go-logo.mini.png" class="d-inline-block align-top" height="30" /> Helpdesk</a>
 -   <a href="http://help.geneontology.org" id="dropdown01" class="nav-link dropdown-toggle">Resources</a>
-    <a href="http://geneontology.org" class="dropdown-item">GO Home</a> <a href="http://geneontology.org/faq-page" class="dropdown-item">FAQs</a> <a href="https://github.com/geneontology/helpdesk/issues" class="dropdown-item">Questions/issues</a> <a href="http://status.geneontology.org/" class="dropdown-item">Status</a> <a href="http://www.geneontology.org/page/go-mailing-lists" class="dropdown-item">Mailing lists</a>
+    <a href="http://geneontology.org" class="dropdown-item">GO Home</a> <a href="http://geneontology.org/faq-page" class="dropdown-item">FAQs</a> <a href="https://github.com/geneontology/helpdesk/issues" class="dropdown-item">Questions/issues</a> <a href="http://status.geneontology.org/" class="dropdown-item">Status</a>
 
 The GO Helpdesk
 ===============
@@ -26,6 +26,5 @@ Best wishes,
 
 <img src="docs/go-logo-icon.png" class="mx-auto d-block" />
 
-Copyright © 1999-2017 [the Gene Ontology](http://www.geneontology.org/ "The Gene Ontology project website") ([CC-BY 4.0](http://geneontology.org/page/use-and-license))
-The Gene Ontology Consortium is supported by a P41 grant from the National Human Genome Research Institute (NHGRI) \[grant [5U41HG002273-14](http://projectreporter.nih.gov/project_info_description.cfm?aid=8641714&icde=0 "National Human Genome Research
-      Institute grant 5U41HG002273-14")\]. The Gene Ontology Consortium would like to acknowledge the assistance of many more people than can be listed here. Please visit the [acknowledgements page](http://geneontology.org/page/go-acknowledgements) for the full list.
+Copyright © 1999-2019 [the Gene Ontology](http://geneontology.org/ "The Gene Ontology project website") ([CC-BY 4.0](http://geneontology.org/page/use-and-license))
+The Gene Ontology Consortium is supported by a P41 grant from the National Human Genome Research Institute (NHGRI) \[grant [U41 HG002273](https://projectreporter.nih.gov/project_info_details.cfm?aid=9209989)\].
