@@ -10,6 +10,9 @@ assignees: ''
 
 # Welcome to the Gene Ontology!
 
+## Please *very* briefly describe your relation to the GO:
+This is so we know who you are and who to contact to get further information about groups, training status, etc.
+
 ## Please indicate your role:
 You may indicate more than one ( [x] )
 
