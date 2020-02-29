@@ -30,8 +30,14 @@ Please provide your expertise (1-3 keywords):
 
 ## User info:
 What is your [ORCID](https://orcid.org/register)?
+
 What is the name of your organization (e.g., LBL, SGD, EMBL-EBI)? 
+
 Which group(s) are you a part of (if not the same as above)?
+
+Which GOC member(s) directed you to this form? 
+
+Will you be curating in NOCTUA?
 
 ## Mailing list membership:
 - [ ] I've signed up for the GOC list (https://mailman.stanford.edu/mailman/listinfo/go-consortium)
