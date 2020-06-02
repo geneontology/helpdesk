@@ -23,7 +23,7 @@ You may indicate more than one ( [x] )
 - [ ] Software developer
 
 ## GO Google access:
-Please provide the email account you want to use for access to the GO Google Drive (shared documents) and GO Calendar (to view conference call information). You can [email our HelpDesk](mailto:help@geneontology.org) to avoid posting it publicly.
+Please provide the email account you want to use for access to the GO Google Drive (shared documents) and GO Calendar (to view conference call information). You can email our HelpDesk at "help" at our domain, geneontology.org, to avoid posting it publicly.
 
 ## Group contacts info:
 Please provide your expertise (1-3 keywords):
