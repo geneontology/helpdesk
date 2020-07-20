@@ -37,7 +37,7 @@ Which group(s) are you a part of (if not the same as above)?
 
 Which GOC member(s) directed you to this form? 
 
-Will you be curating in NOCTUA?
+Will you be curating in Noctua?
 
 ## Mailing list membership:
 - [ ] I've signed up for the GOC list (https://mailman.stanford.edu/mailman/listinfo/go-consortium)
