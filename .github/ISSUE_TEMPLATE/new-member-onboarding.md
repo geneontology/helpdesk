@@ -39,6 +39,17 @@ Which GOC member(s) directed you to this form?
 
 Will you be curating in Noctua?
 
+## Onboarding and Training
+
+I have been directed to the GO Onboarding Checklists in the wiki
+- [ ] yes
+- [ ] no
+
+I have started training for Noctua, or have arranged with someone to start Noctua training:
+- [ ] yes
+- [ ] no
+- [ ] n/a (I'm not a curator and/or not using Noctua)
+
 ## Mailing list membership:
 - [ ] I've signed up for the GOC list (https://mailman.stanford.edu/mailman/listinfo/go-consortium)
 
