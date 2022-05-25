@@ -1,5 +1,5 @@
 ---
-name: New Member Onboarding
+name: New Member Onboarding Information
 about: This template is to be used by new GO members and contributors to ensure they
   have correct permissions and access to documents
 title: New User Onboarding
@@ -26,18 +26,21 @@ assignees: ''
 <!--  Please provide your expertise (1-3 keywords) -->
 
 ## User info
-- What is your [ORCID](https://orcid.org/register)?
+- What is your [ORCID](https://orcid.org/register)?:
 
--What is your preferred email for GO Google access:
+- What is your preferred email for GO Google access?:
 <!-- Please provide the email account you want to use for access to the GO Google Drive (shared documents) and GO Calendar (to view conference call information). You can email our HelpDesk at "help" at our domain, geneontology.org, to avoid posting it publicly. --> 
 
-- What is the name of your organization (e.g., LBL, SGD, EMBL-EBI)? 
+- What is the name of your organization (e.g., LBL, SGD, EMBL-EBI)?:
 
-- Which group(s) are you a part of (if not the same as above)?
+- Which group(s) are you a part of (if not the same as above)?:
 
-- Which GOC member(s) directed you to this form? 
+- Which GOC member(s) directed you to this form?:
 
 - Will you be curating in Noctua?
+- [ ] yes
+- [ ] no
+- [ ] not sure
 
 ## Onboarding and Training
 
@@ -47,9 +50,9 @@ I have been directed to the GO Onboarding Checklists in the wiki
 
 I have started training for Noctua, or have arranged with someone to start Noctua training
 - [ ] yes
-  - If yes, who is training you (person/event): 
+  - If yes, who is training you (person/event)?: 
 - [ ] no
-- [ ] n/a (I'm not a curator and/or not using Noctua)
+- [ ] n/a, I'm not a curator and/or not using Noctua
 
 
 ## Mailing list membership
@@ -74,3 +77,4 @@ Please disregard the checklist below.  We will perform these internal tasks usin
 - [ ] Add user to go-site/metadata/users.yaml and any additional groups to go-site/metadata/groups.yaml
 - [ ] Add user to GitHub and appropriate groups
 - [ ] Add user to Slack and appropriate rooms
+- [ ] Direct user to wiki, including onboarding page
