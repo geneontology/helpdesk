@@ -48,6 +48,10 @@ I have been directed to the GO Onboarding Checklists in the wiki
 - [ ] yes
 - [ ] no
 
+I have an active account for the wiki
+- [ ] yes
+- [ ] no
+
 I have started training for Noctua, or have arranged with someone to start Noctua training
 - [ ] yes
   - If yes, who is training you (person/event)?: 
@@ -78,3 +82,4 @@ Please disregard the checklist below.  We will perform these internal tasks usin
 - [ ] Add user to GitHub and appropriate groups
 - [ ] Add user to Slack and appropriate rooms
 - [ ] Direct user to wiki, including onboarding page
+- [ ] Create wiki account 
