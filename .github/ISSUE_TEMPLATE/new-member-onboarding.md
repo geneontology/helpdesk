@@ -78,7 +78,7 @@ Please disregard the checklist below.  We will perform these internal tasks usin
 - [ ] Add user to the GO Google Drive
 - [ ] Add user to the GO Google Calendar
 - [ ] Add user to go-site/metadata/group-contacts.csv
-- [ ] Add user to go-site/metadata/users.yaml and any additional groups to go-site/metadata/groups.yaml; refresh Noctua users if needed
+- [ ] Add user to go-site/metadata/users.yaml and any additional groups to go-site/metadata/groups.yaml; refresh Noctua users
 - [ ] Add user to GitHub and appropriate groups
 - [ ] Add user to Slack and appropriate rooms
 - [ ] Direct user to wiki, including onboarding page
