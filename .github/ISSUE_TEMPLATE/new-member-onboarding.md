@@ -31,9 +31,7 @@ assignees: ''
 - What is your preferred email for GO Google access?:
 <!-- Please provide the email account you want to use for access to the GO Google Drive (shared documents) and GO Calendar (to view conference call information). You can email our HelpDesk at "help" at our domain, geneontology.org, to avoid posting it publicly. --> 
 
-- What is the name of your organization (e.g., LBL, SGD, EMBL-EBI)?:
-
-- Which group(s) are you a part of (if not the same as above)?:
+- What is the name of your group (e.g., SGD, FlyBase, UniProt, etc)?:
 
 - Which GOC member(s) directed you to this form?:
 
@@ -45,10 +43,6 @@ assignees: ''
 ## Onboarding and Training
 
 I have been directed to the GO Onboarding Checklists in the wiki
-- [ ] yes
-- [ ] no
-
-I have an active account for the wiki
 - [ ] yes
 - [ ] no
 
@@ -82,4 +76,4 @@ Please disregard the checklist below.  We will perform these internal tasks usin
 - [ ] Add user to GitHub and appropriate groups
 - [ ] Add user to Slack and appropriate rooms
 - [ ] Direct user to wiki, including onboarding page
-- [ ] Create wiki account 
+- [ ] Create wiki account
