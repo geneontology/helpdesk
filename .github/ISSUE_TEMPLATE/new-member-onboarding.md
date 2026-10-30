@@ -76,4 +76,3 @@ Please disregard the checklist below.  We will perform these internal tasks usin
 - [ ] Add user to GitHub and appropriate groups
 - [ ] Add user to Slack and appropriate rooms
 - [ ] Direct user to wiki, including onboarding page
-- [ ] Create wiki account
